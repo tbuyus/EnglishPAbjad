@@ -14,7 +14,11 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambigous, not only that so is [encoding](#encoding).  
 
 Τħere are many sounds that can be encoded in more than one way:     
-sh - SHeep,SHIP; staTIon, raTIo; Sugar, Sure, iSSue; conCIous
+sh -  
+* SH SHeep, SHIP  
+* TI staTIon, raTIo 
+* S Sugar, Sure, iSSue 
+* CI conCIous
 
 ###Previous efforts to ameliorate this nightmare
 ####Initial teaching alphabets and reference alphabets.
