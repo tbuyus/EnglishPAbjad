@@ -23,6 +23,8 @@ sh -
 ###Previous efforts to ameliorate this nightmare
 ####Initial teaching alphabets and reference alphabets.
 
+There have been many transitoy and reference orthographies (spelling systems and alphabets)
+
 Τħeŕè havè bėèn mãnɥ tranśítørɥ and refèrénçè orthographies (sųstémś) óƒ Ėñgli$ħ in lèàŕniñg Ėñgli$ħ. Sőmè óƒ τħêśè (UNIFON, ITA - [initial teachinig alphabet] (http://www.omniglot.com/writing/ita.htm), Jollɥ Þħonics) havè bėèn ûśèd tö têà¢ħ τħé alþħábetic prinçípál frêê óƒ τħé extrá cognitivè ôvèŕheàd óƒ pèŕvèŕsè mãnɥ-tö-mãnɥ mappings bėtwêên sõùndś and sųmbólś. Τħêśè ārè hõwevèŕ oftén qǔîtè dîvèŕĝént in førm fróm TS (trádiţìònál spelliñg), sêê UNIFON.
 
 Τħé ITA had a sėrïous flåw wħen ûśèd før töö loñg.
@@ -38,7 +40,7 @@ ITA woś ûśèd før sô loñg τħat mãnɥ ¢ħildrén lèàŕnt dîvèŕĝé
 
 Sound            |letter 
 -----------------|---------
-many,any,said 	 |a-> ê
+many,any,said  	 |a-> ê
 Applè            |a->a
 gate,say,paid,   |a-> ey
 father           |a-> ar British English?
