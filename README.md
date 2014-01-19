@@ -33,10 +33,10 @@ The ITA had a serious flaw when used for too long.
 There are two stages in learning to read.
 
 * understanding the alphabetic principle (needed to decode the words)  
-* learning the words shapes (to recognize the word quickly, by form, so as no to have to decode EVERY SINGLE letter of EVERY word) 
+* learning the words shapes (to recognize the word quickly, by form, so as no to have to decode EVERY SINGLE letter of EVERY word, EVERY time) 
  
 
-ITA was used for too long and many children learnt incorrect word forms (similar but WRONG). many claim to have struggled with spelling ever since. 
+ITA was used for too long and many children learnt incorrect word forms (similar but WRONG). Many claim to have struggled with spelling ever since. 
 
 <a name="decoding"></a>
 ###Decoding Problems
