@@ -19,7 +19,9 @@ The lack of consistency in the sounds, that the letters in English can represent
 
 There are many LETTERS that can be DECODED in more than one way:
 #####o
-* One Wun
+* One, Once; WUn, WUnce
+* gOvernment gUvernment
+* wOmen wImen
 * 
 
 Τhere are many SOUNDS that can be ENCODED in more than one way:     
