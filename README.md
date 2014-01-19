@@ -9,7 +9,7 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 * verbose   
  an average [<sup>on the authority of bruhaha, barbara, and shane</sup>](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) word, of 5 letters, specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
 
-###Just TOTALLY [FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
+###Just [TOTALLY FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
 
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambigous, not only that so is [encoding](#encoding).  
 
