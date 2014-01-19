@@ -8,14 +8,14 @@ The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](h
    *lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)
 *verbose
 
-   *a word óƒ [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations whic is ineffiecent encoding of vocabulary sizes which rarely exceed 100 thousand words
-###Just TÔTÁLLꞍ [FUBAR]
+   *a word óƒ [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
+###Just TOTALLY [FUBAR]
 
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  Decoding is ambigous, not only that so is encoding. Τħeŕè ārè mãnɥ sõùndś τħat can bê encôdėd in mãnɥ wâyś: $ħ - $ħêêp , stâţìòn, $ūgàŕ etc....
-###Prêvïous effòŕts tö ámêlǐórâtè τħis nîgħtmãŕè
-####Iniţìál têà¢ħiñg alphabets and refèrénçè alphabets
+###Previous efforts to ameliorate this nightmare
+####Initial teaching alphabets and reference alphabets.
 
-Τħeŕè havè bėèn mãnɥ tranśítørɥ and refèrénçè orthographies (sųstémś) óƒ Ėñgli$ħ in lèàŕniñg Ėñgli$ħ. Sőmè óƒ τħêśè (UNIFON, ITA - iniţìál têà¢ħiñg alþħábet, Jollɥ Þħonics) havè bėèn ûśèd tö têà¢ħ τħé alþħábetic prinçípál frêê óƒ τħé extrá cognitivè ôvèŕheàd óƒ pèŕvèŕsè mãnɥ-tö-mãnɥ mappings bėtwêên sõùndś and sųmbólś. Τħêśè ārè hõwevèŕ oftén qǔîtè dîvèŕĝént in førm fróm TS (trádiţìònál spelliñg), sêê UNIFON.
+Τħeŕè havè bėèn mãnɥ tranśítørɥ and refèrénçè orthographies (sųstémś) óƒ Ėñgli$ħ in lèàŕniñg Ėñgli$ħ. Sőmè óƒ τħêśè (UNIFON, ITA - [initial teachinig alphabet] (http://www.omniglot.com/writing/ita.htm), Jollɥ Þħonics) havè bėèn ûśèd tö têà¢ħ τħé alþħábetic prinçípál frêê óƒ τħé extrá cognitivè ôvèŕheàd óƒ pèŕvèŕsè mãnɥ-tö-mãnɥ mappings bėtwêên sõùndś and sųmbólś. Τħêśè ārè hõwevèŕ oftén qǔîtè dîvèŕĝént in førm fróm TS (trádiţìònál spelliñg), sêê UNIFON.
 
 Τħé ITA had a sėrïous flåw wħen ûśèd før töö loñg.
 Τħeŕè ārè two stâĝėś in lèàŕniñg tö read.
@@ -25,7 +25,8 @@ The lack of consistency in the sounds, that the letters in English can represent
 
 ITA woś ûśèd før sô loñg τħat mãnɥ ¢ħildrén lèàŕnt dîvèŕĝént wòŕd førmś and mãnɥ clâìm tö havè strugglèd wiτħ spelliñg evèŕ sinçè.
 
-Dėcôdiñg problémś
+###Dėcôdiñg problémś
+
 lettèŕ |	sõùnd
 -------|---------
 mãnɥ 	 |a-> ê
@@ -33,7 +34,8 @@ Applè  |a->a
 gâtè 	 |a-> ey
 fāτħèŕ |a-> ār Briti$ħ Ėñgli$ħ
 
-Encôdiñg problémś
+###Encôdiñg problémś
+
 Sõùnd   |	Lettèŕ
 It 	    |î -> î
 þħųśics |î -> y
