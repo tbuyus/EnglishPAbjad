@@ -9,7 +9,7 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 * verbose   
  a word of [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
 
-###Just TOTALLY [FUBAR]
+###Just TOTALLY [FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
 
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambigous, not only that so is [encoding](#encoding).  
 
@@ -33,15 +33,17 @@ sh -
 
 ITA woś ûśèd før sô loñg τħat mãnɥ ¢ħildrén lèàŕnt dîvèŕĝént wòŕd førmś and mãnɥ clâìm tö havè strugglèd wiτħ spelliñg evèŕ sinçè.
 
+<a name="decoding"></a>
 ###Decoding Problems
 
 Sound            |letter 
 -----------------|---------
-manɥ,any,said 	 |a-> ê
+many,any,said 	 |a-> ê
 Applè            |a->a
 gate,say,paid,   |a-> ey
 father           |a-> ar British English?
 
+<a name="encoding"></a>
 ###Encoding Problems
 
 Letter   |	Sound
