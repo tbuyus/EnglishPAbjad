@@ -23,9 +23,10 @@ sh -
 ###Previous efforts to ameliorate this nightmare
 ####Initial teaching alphabets and reference alphabets.
 
-There have been many transitory and reference orthographies (spelling systems and alphabets)
+There have been many transitory and reference orthographies (spelling systems and alphabets) developed to aid learners of English. Some of these (UNIFON, ITA - [initial teachinig alphabet] (http://www.omniglot.com/writing/ita.htm), and Jolly Phonics) have been used to teach the alphabetic principle free of the extra congnitive overhead of the perversity of the many-to-many mappings from sounds to symbols.
 
-Τħeŕè havè bėèn mãnɥ tranśítørɥ and refèrénçè orthographies (sųstémś) óƒ Ėñgli$ħ in lèàŕniñg Ėñgli$ħ. Sőmè óƒ τħêśè (UNIFON, ITA - [initial teachinig alphabet] (http://www.omniglot.com/writing/ita.htm), Jollɥ Þħonics) havè bėèn ûśèd tö têà¢ħ τħé alþħábetic prinçípál frêê óƒ τħé extrá cognitivè ôvèŕheàd óƒ pèŕvèŕsè mãnɥ-tö-mãnɥ mappings bėtwêên sõùndś and sųmbólś. Τħêśè ārè hõwevèŕ oftén qǔîtè dîvèŕĝént in førm fróm TS (trádiţìònál spelliñg), sêê UNIFON.
+However, these often diverge in form from TS (Traditional Spelling), see UNIFON
+
 
 Τħé ITA had a sėrïous flåw wħen ûśèd før töö loñg.
 Τħeŕè ārè two stâĝėś in lèàŕniñg tö read.
