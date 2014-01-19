@@ -11,7 +11,7 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 
 ###Just [TOTALLY FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
 
-The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambigous, not only that so is [encoding](#encoding).  
+The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambiguous, not only that so is [encoding](#encoding).  
 
 Τħere are many sounds that can be encoded in more than one way:     
 sh -  
