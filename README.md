@@ -1,15 +1,14 @@
 PEAdjad
 =======
 
-The Phonetic English Abjad (eg. Arabic, Hebrew) is a proposal for an alternate othography (spelling system) for English. Technically, it is not a pure abjad as occaisonally some vowels are retained (this avoids having, some seleted common words, collapsing into homographs). Additionally it diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to a TLA (three letter acronymn) - eg. government -> gvt. 
+The Phonetic English Abjad (eg. Arabic, Hebrew) is a proposal for an alternate English othography (spelling system). Technically, it is not a pure abjad as occaisonally some vowels are retained (this avoids having, some seleted common words, collapsing into homographs). Additionally it diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
 
-Problémś wiτħ Ėñgli$ħ
-pèŕvèŕsè
-
-*lack óƒ cónsistént þħónetic regûlãrítɥ
+###Problems with TS (Traditional Spelling)
+*perverse
+   *lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)
 *verbose
 
-a wòŕd óƒ 5 lettèŕś speçífîèś (26x26x26x26x26) nėàŕlɥ 12 million combínâţìònś wħi¢ħ iś an inėffićiént encôdiñg óƒ vôcabûlãrɥ sîzėś wħi¢ħ rãŕèlɥ > 100 thousand
+   *a wòŕd óƒ [5 lettèŕś](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) speçífîèś (26x26x26x26x26) nėàŕlɥ 12 million combínâţìònś wħi¢ħ iś an inėffićiént encôdiñg óƒ vôcabûlãrɥ sîzėś wħi¢ħ rãŕèlɥ > 100 thousand
 Just TÔTÁLLꞍ fubar
 
 Τħé lack óƒ cónsisténçɥ in τħé sõùndś τħat lettèŕś in Ėñgli$ħ speçífŷ mâkès lèàŕniñg tö read and spell a rêàl problém før lèàŕnèŕś óƒ Ėñgli$ħ wħen cómpãŕèd tö őτħèŕ lèàŕnèŕś óƒ őτħèŕ less messèð up orthographies. Sô dėcôdiñg iś ambigous, not ônlɥ τħat it iś not sô iś encôdiñg. Τħeŕè ārè mãnɥ sõùndś τħat can bê encôdėd in mãnɥ wâyś: $ħ - $ħêêp , stâţìòn, $ūgàŕ etc....
