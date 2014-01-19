@@ -7,11 +7,14 @@ The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](h
 * perverse    
 lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)  
 * verbose   
- a word óƒ [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
+ a word of [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
 
 ###Just TOTALLY [FUBAR]
 
-The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  Decoding is ambigous, not only that so is encoding. Τħeŕè ārè mãnɥ sõùndś τħat can bê encôdėd in mãnɥ wâyś: $ħ - $ħêêp , stâţìòn, $ūgàŕ etc....
+The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for learners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambigous, not only that so is [encoding](#encoding).  
+
+Τħere are many sounds that can be encoded in more than one way:     
+sh - SHeep,SHIP; staTIon, raTIo; Sugar, Sure, iSSue; conCIous
 
 ###Previous efforts to ameliorate this nightmare
 ####Initial teaching alphabets and reference alphabets.
