@@ -7,7 +7,7 @@ The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](h
 * perverse    
 lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)  
 * verbose   
- an average [<sup>on the authority of bruhaha, barbara, and shane</sup>](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) word of 5 letters specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
+ an average [<sup>on the authority of bruhaha, barbara, and shane</sup>](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) word, of 5 letters, specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
 
 ###Just TOTALLY [FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
 
