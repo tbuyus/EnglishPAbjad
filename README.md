@@ -21,24 +21,24 @@ The lack of consistency in the sounds, that the letters in English can represent
 Τħé ITA had a sėrïous flåw wħen ûśèd før töö loñg.
 Τħeŕè ārè two stâĝėś in lèàŕniñg tö read.
 
-*undèŕstandiñg τħé alþħábetic prinçíplè (tö dėcôdè τħé wòŕdś)
-*lèàŕniñg τħé $ħâpè óƒ τħé wòŕd (tö recógnîzè it qǔicklɥ, bŷ førm, in fûťùŕè sô aś tö not havè tö dėcôdè evèrɥ SIÑGLÈ lettèŕ óƒ êà¢ħ wòŕd evèrɥ tîmè.)
+*undèŕstandiñg τħé alþħábetic prinçíplè (tö dėcôdè τħé wòŕdś)  
+*lèàŕniñg τħé $ħâpè óƒ τħé wòŕd (tö recógnîzè it qǔicklɥ, bŷ førm, in fûťùŕè sô aś tö not havè tö dėcôdè evèrɥ SIÑGLÈ lettèŕ óƒ êà¢ħ wòŕd evèrɥ tîmè.)  
 
 ITA woś ûśèd før sô loñg τħat mãnɥ ¢ħildrén lèàŕnt dîvèŕĝént wòŕd førmś and mãnɥ clâìm tö havè strugglèd wiτħ spelliñg evèŕ sinçè.
 
-###Dėcôdiñg problémś
+###Decoding Problems
 
-lettèŕ |	sõùnd
--------|---------
-mãnɥ 	 |a-> ê
-Applè  |a->a
-gâtè 	 |a-> ey
-fāτħèŕ |a-> ār Briti$ħ Ėñgli$ħ
+Sound            |letter 
+-----------------|---------
+manɥ,any,said 	 |a-> ê
+Applè            |a->a
+gate,say,paid,   |a-> ey
+father           |a-> ar British English?
 
-###Encôdiñg problémś
+###Encoding Problems
 
-Sõùnd   |	Lettèŕ
---------|-------
-It 	    |î -> î
-þħųśics |î -> y
-dėśèŕtėd|	î->ê
+Letter   |	Sound
+---------|-------
+It 	     |i
+phYsics  |i
+dEsertEd |i
