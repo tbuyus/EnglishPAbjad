@@ -20,7 +20,7 @@ The lack of consistency in the sounds, that the letters in English can represent
 There are many LETTERS that can be DECODED in more than one way:
 #####o
 * One, Once; WUn, WUnce
-* gOvernment gUvernment
+* sOme, Other, cOme, dOes, gOvernment; sUme, Uther, cUme, dUes, gUvernment
 * wOmen wImen
 * 
 
