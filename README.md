@@ -3,10 +3,10 @@ PEAdjad
 
 The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet) is a proposal for an alternate English othography (spelling system). Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some selected common words, collapsing into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbour's noisey ???/cock/2625 kept disturbing her sleep. Or any Officer Crabtree-esq 'miscomunications'; a) [th brtsh erfs hv drpd thr bms on th wtrwks](http://www.youtube.com/watch?v=6DrAp5gzdqc); b) [.. undr th lmp pst thr ar tw tts](http://www.youtube.com/watch?v=zGNVU5ZjlgA)) Additionally the PEAdjad diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
 
-###Problems with TS (Traditional Spelling)
-*perverse
-*lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)
-*verbose
+###Problems with TS (Traditional Spelling)  
+*perverse  
+*lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbol)  
+*verbose  
 *a word óƒ [5 letters](http://answers.yahoo.com/question/index?qid=20080526032554AAB28AF) specifies (26x26x26x26x26) nearly 12 million combinations which is inefficient encoding of vocabulary sizes which rarely exceed 100 thousand words
 
 ###Just TOTALLY [FUBAR]
