@@ -1,7 +1,7 @@
 PEAdjad
 =======
 
-The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. Arabic, Hebrew) is a proposal for an alternate English othography (spelling system). Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some seleted common words, collapsing,into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbour's noisey ???/cock/2625 kept disturbing her sleep.) Additionally the PEAdjad diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
+The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet) is a proposal for an alternate English othography (spelling system). Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some seleted common words, collapsing,into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbour's noisey ???/cock/2625 kept disturbing her sleep.) Additionally the PEAdjad diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
 
 ###Problems with TS (Traditional Spelling)
 *perverse
