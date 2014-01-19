@@ -43,10 +43,10 @@ ITA was used for too long and many children learnt incorrect word forms (similar
 
 letter           |which sound? 
 -----------------|---------
-mAny,Any,sAid  	 |a-> ê
-Applè            |a->a
-gAte,sAy,pAid,   |a-> ey
-fAther           |a-> ar British English?
+mAny, Any, sAid  	 |e
+Applè            |a
+gAte, sAy, pAid,   |ey
+fAther           |ar British English?
 
 <a name="encoding"></a>
 ###Encoding Problems
