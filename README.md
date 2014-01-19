@@ -1,7 +1,8 @@
 PEAdjad
 =======
 
- Þħónetic Ėñgli$ħ Abjad (sørt óƒ - inclüdèś siñglè võwél VAWL førmś, and 3 lettèŕ ábbrêvïâţìònś GVT = goverment)
+The Phonetic English Abjad (eg. Arabic, Hebrew) is a proposal for an alternate othography (spelling system) for English. Technically, it is not a pure abjad as occaisonally some vowels are retained (this avoids having, some seleted common words, collapsing into homographs). Additionally it diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to a TLA (three letter acronymn) - eg. government -> gvt. 
+
 Problémś wiτħ Ėñgli$ħ
 pèŕvèŕsè
 
