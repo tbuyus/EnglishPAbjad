@@ -22,7 +22,7 @@ There are many LETTERS that can be DECODED in more than one way:
 * One, Once; WUn, WUnce
 * sOme, Other, cOme, dOes, gOvernment; sUme, Uther, cUme, dUes, gUvernment
 * wOmen wImen
-* 
+* thrOugh, whO, dO, yOu, schOOl, grOup, fOOd, sOOn, mOve, prOve, lOse; throo, hoo, doo, yoo, schoo??l, groop, foo??d, soo?n, moov, proov, looz 
 
 Τhere are many SOUNDS that can be ENCODED in more than one way:     
 #####sh   
