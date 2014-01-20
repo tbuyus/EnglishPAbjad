@@ -5,7 +5,7 @@ The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](h
 
 Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some selected common words, collapsing into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbours' noisey cock(/???/2625) kept disturbing her morning sleep. Or any Officer Crabtree-esq 'miscomunications'; a) [th brtsh erfs hv drpd thr bms on th wtrwks](http://www.youtube.com/watch?v=6DrAp5gzdqc); b) [.. undr th lmp pst thr ar tw tts](http://www.youtube.com/watch?v=zGNVU5ZjlgA)).  
 
-Additionally the PEAdjad diverges from a tradition abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
+Additionally the English PAdjad diverges from a traditional abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
 
 ###Problems with TS (Traditional Spelling)  
 * perverse    
@@ -19,8 +19,10 @@ The lack of consistency in the sounds, that the letters in English can represent
 
 There are many LETTERS that can be DECODED in more than one way:
 #####o
-* One, Once; WUn, WUnce
-* sOme, Other, cOme, dOes, gOvernment; sUme, Uther, cUme, dUes, gUvernment
+Letter|Sound|Example TS| Occurance of Sound Capitalised
+-------------------------------------------------------
+O|WU| One, Once| WUn, WUnce
+O|U| sOme, Other, cOme, dOes, gOvernment| sUme, Uther, cUme, dUes, gUvernment
 * wOmen wImen
 * thrOugh, whO, dO, yOu, schOOl, grOup, fOOd, sOOn, mOve, prOve, lOse; throo, hoo, doo, yoo, schoo??l, groop, foo??d, soo?n, moov, proov, looz 
 
