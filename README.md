@@ -39,7 +39,7 @@ Admittedly, the letter 'o' is particularly bad (as are many of the vowel letters
 #####sh   
 
 * SH she, should, sure, issue, professional, pressure, ensuring, professional, discussion  
-* TI staTIon, raTIo 
+* TI question, national, education, position, international, action, section 
 * CI conCIous
 
 ###Previous efforts to ameliorate this nightmare
