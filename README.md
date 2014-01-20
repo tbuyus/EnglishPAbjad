@@ -18,11 +18,11 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambiguous, not only that, so is [encoding](#encoding). 
 
 There are many LETTERS that can be DECODED in more than one way:
-#####o
-Letter|Sound|Example TS| Occurance of Sound Capitalised
--------------------------------------------------------
-O|WU| One, Once| WUn, WUnce
-O|U| sOme, Other, cOme, dOes, gOvernment| sUme, Uther, cUme, dUes, gUvernment
+#####o  
+Letter|Sound|Example TS| Occurance of Sound Capitalised  
+-------------------------------------------------------  
+O|WU| One, Once| WUn, WUnce  
+O|U| sOme, Other, cOme, dOes, gOvernment| sUme, Uther, cUme, dUes, gUvernment  
 * wOmen wImen
 * thrOugh, whO, dO, yOu, schOOl, grOup, fOOd, sOOn, mOve, prOve, lOse; throo, hoo, doo, yoo, schoo??l, groop, foo??d, soo?n, moov, proov, looz 
 
