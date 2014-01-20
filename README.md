@@ -20,7 +20,7 @@ The lack of consistency in the sounds, that the letters in English can represent
 There are many LETTERS that can be DECODED in more than one way:
 #####o  
 Letter|Sound|Example TS| Occurance of Sound Capitalised  
--------------------------------------------------------  
+------|-----|----------|---------------------------------  
 O|WU| One, Once| WUn, WUnce  
 O|U| sOme, Other, cOme, dOes, gOvernment| sUme, Uther, cUme, dUes, gUvernment  
 * wOmen wImen
