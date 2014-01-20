@@ -37,9 +37,9 @@ Admittedly, the letter 'o' is particularly bad (as are many of the vowel letters
 
 ####Τhere are many SOUNDS that can be ENCODED in more than one way:     
 #####sh   
-* SH SHeep, SHIP  
+
+* SH she, should, sure, issue, professional, pressure, ensuring, professional, discussion  
 * TI staTIon, raTIo 
-* S Sugar, Sure, iSSue 
 * CI conCIous
 
 ###Previous efforts to ameliorate this nightmare
