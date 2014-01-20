@@ -25,7 +25,8 @@ O|WU| One, Once| WUn, WUnce
 O|U| sOme, Other, cOme, dOes, gOvernment| sUme, Uther, cUme, dUes, gUvernment  
 O|I| wOmen| wImen  
 O|OO| thrOugh, whO, dO, yOu, schOOl, grOup, fOOd, sOOn, mOve, prOve, lOse| throo, hoo, doo, yoo, schoo??l, groop, foo??d, soo?n, moov, proov, looz  
-O|UW|sO ,nO , Only, Over, mOst, knOw, alsO, thOse, Own, bOth|sUW, nUW, UWnly, UWver, mUWst, knUW, alsUW, thUWse, UWn, bUWth  
+O|UW|sO , nO , Only, Over, mOst, knOw, alsO, thOse, Own, bOth|sUW, nUW, UWnly, UWver, mUWst, knUW, alsUW, thUWse, UWn, bUWth  
+O|AW| about, out, how, now | abAWut, AWut, hAWw, nAWw 
 
 
 ####Τhere are many SOUNDS that can be ENCODED in more than one way:     
