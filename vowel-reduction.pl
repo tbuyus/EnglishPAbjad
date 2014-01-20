@@ -23,7 +23,7 @@ $word=@_[0];
 $start= substr $word,1, 2;
 $end=  substr $word, -1, 1;
 $word_length=length($word); 
-if ($word_length>3) {$word = "$start$end$word_length"};
+if ($word_length>3) {$word = "$start$end"};
 return $word}
 
 sub removevowels {

@@ -30,7 +30,7 @@ where (not n1.tradspell=n2.tradspell) and (n1.rank<n2.rank)
 group by n1.rank
 order by n1.rank asc;
 
-select * from ndictionary d where d.rank < 200;
+select * from ndictionary2 d where d.rank < 200;
 
 select * from ndictionary n where n.rank  <  28000  and  n.rank  >27950 ; 
 -----
