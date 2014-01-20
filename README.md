@@ -1,5 +1,5 @@
-PEAdjad
-=======
+English PAdjad
+==============
 
 The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet)) is a proposal for an alternate English othography (spelling system).  
 
