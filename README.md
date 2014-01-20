@@ -1,7 +1,7 @@
 English PAbjad
 ==============
 
-The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet)) is a proposal for an alternate English othography (spelling system).  
+The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet) -they have no vowels, they hav nuw vawlz, thy hv nw vwlz) is a proposal for an alternate English othography (spelling system).  
 
 Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some selected common words, collapsing into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbours' noisey cock(/???/2625) kept disturbing her morning sleep. Or any Officer Crabtree-esq 'miscomunications'; a) [th brtsh erfs hv drpd thr bms on th wtrwks](http://www.youtube.com/watch?v=6DrAp5gzdqc); b) [.. undr th lmp pst thr ar tw tts](http://www.youtube.com/watch?v=zGNVU5ZjlgA)).  
 
@@ -17,7 +17,7 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 
 The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambiguous, not only that, so is [encoding](#encoding). 
 
-There are many LETTERS that can be DECODED in more than one way:
+####There are many LETTERS that can be DECODED in more than one way:
 #####o  
 Letter|Sound|Example TS| Occurance of Sound Capitalised  
 ------|-----|----------|---------------------------------  
@@ -27,7 +27,7 @@ O|I| wOmen| wImen
 O|OO| thrOugh, whO, dO, yOu, schOOl, grOup, fOOd, sOOn, mOve, prOve, lOse| throo, hoo, doo, yoo, schoo??l, groop, foo??d, soo?n, moov, proov, looz   
 
 
-Τhere are many SOUNDS that can be ENCODED in more than one way:     
+####Τhere are many SOUNDS that can be ENCODED in more than one way:     
 #####sh   
 * SH SHeep, SHIP  
 * TI staTIon, raTIo 
