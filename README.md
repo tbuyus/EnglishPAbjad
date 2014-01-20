@@ -3,7 +3,7 @@ English PAbjad
 
 The Phonetic English [Abjad](http://en.wikipedia.org/wiki/Abjad) (eg. [Arabic](http://en.wikipedia.org/wiki/Arabic_Alphabet), [Hebrew](http://en.wikipedia.org/wiki/Arabic_Alphabet) -they have no vowels, they hav nuw vawlz, thy hv nw vwlz) is a proposal for an alternate English othography (spelling system).  
 
-Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some selected common words, collapsing into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbours' noisey cock(/???/2625) kept disturbing her morning sleep. Or any Officer Crabtree-esq 'miscomunications'; a) [th brtsh erfs hv drpd thr bms on th wtrwks](http://www.youtube.com/watch?v=6DrAp5gzdqc); b) [.. undr th lmp pst thr ar tw tts](http://www.youtube.com/watch?v=zGNVU5ZjlgA)).  
+Technically, it is not a pure abjad as occaisonally some vowels are retained. This avoids having, some selected common words, collapsing into homographs (like the [textonyms](http://www.urbandictionary.com/define.php?term=textonym) - Her neighbours' noisey cock(/???/2625) kept disturbing her morning sleep. Or any Officer Crabtree-esq 'miscommunications'; a) [th brtsh erfs hv drpd thr bms on th wtrwks](http://www.youtube.com/watch?v=6DrAp5gzdqc); b) [.. undr th lmp pst thr ar tw tts](http://www.youtube.com/watch?v=zGNVU5ZjlgA)).  
 
 Additionally the English PAdjad diverges from a traditional abjad in one further respect: some common words are not only contracted by vowel removal, but also by abbrieviation to TLA (three letter acronymn) - eg. government -> gvt.
 
@@ -51,7 +51,8 @@ However, these often diverge in form from TS (Traditional Spelling), see [UNIFON
 
 
 
-The ITA had a serious flaw when used for too long.  
+The ITA had a serious flaw when used for too long.
+
 There are two stages in learning to read.
 
 * understanding the alphabetic principle (needed to decode the words)  
