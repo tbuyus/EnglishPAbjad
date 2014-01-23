@@ -61,15 +61,7 @@ There are two stages in learning to read.
 
 ITA was used for too long and many children learnt incorrect word-shape (similar but WRONG). Many claim to have struggled with spelling ever since. 
 
-<a name="decoding"></a>
-###Decoding Problems
-
-letter           |which sound? 
------------------|---------
-mAny, Any, sAid  	 |e
-Applè            |a
-gAte, sAy, pAid,   |ey
-fAther           |ar British English?
+<hr/>
 
 <a name="encoding"></a>
 ###Encoding Problems
