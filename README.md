@@ -15,7 +15,7 @@ lack of consistent phonetic regularity (of symbol -> sound, and sound-> to symbo
 
 ###Just [TOTALLY FUBAR](http://en.wikipedia.org/wiki/FUBAR#FUBAR)
 
-The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](#decoding) is ambiguous, not only that, so is [encoding](#encoding). 
+The lack of consistency in the sounds, that the letters in English can represent, makes learning to read and spell a real problem for children and foreigners when compared to other orthographies (like German and Spanish spelling).  [Decoding](http://www.webpidgin.co.uk/4sue/) is ambiguous, not only that, so is [encoding](#encoding). 
 
 ####There are many LETTERS that can be DECODED in more than one way:
 #####o  
@@ -45,7 +45,7 @@ Admittedly, the letter 'o' is particularly bad (as are many of the vowel letters
 ###Previous efforts to ameliorate this nightmare
 ####Initial teaching alphabets and reference alphabets.
 
-There have been many transitory and reference orthographies (spelling systems and alphabets) developed to aid learners of English. Some of these (UNIFON, ITA - [initial teachinig alphabet] (http://www.omniglot.com/writing/ita.htm), and [Jolly Phonics](http://jollylearning.co.uk/overview-about-jolly-phonics/)) have been used to teach the alphabetic principle free of the extra congnitive overhead of the perversity of the many-to-many mappings from sounds to symbols.
+There have been many transitory and reference orthographies (spelling systems and alphabets) developed to aid learners of English. Some of these (UNIFON, ITA - [initial teaching alphabet] (http://www.omniglot.com/writing/ita.htm), and [Jolly Phonics](http://jollylearning.co.uk/overview-about-jolly-phonics/)) have been used to teach the alphabetic principle free of the extra congnitive overhead of the perversity of the many-to-many mappings from sounds to symbols.
 
 However, these often diverge in form from TS (Traditional Spelling), see [UNIFON](http://www.omniglot.com/conscripts/unifon.htm)
 
@@ -61,15 +61,7 @@ There are two stages in learning to read.
 
 ITA was used for too long and many children learnt incorrect word-shape (similar but WRONG). Many claim to have struggled with spelling ever since. 
 
-<a name="decoding"></a>
-###Decoding Problems
-
-letter           |which sound? 
------------------|---------
-mAny, Any, sAid  	 |e
-Applè            |a
-gAte, sAy, pAid,   |ey
-fAther           |ar British English?
+<hr/>
 
 <a name="encoding"></a>
 ###Encoding Problems
